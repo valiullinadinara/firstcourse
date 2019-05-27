@@ -63,9 +63,8 @@ a:active {
 
 .pic3 {
 	width: 10%;
-	height: 25%;
 	position: absolute;
-	margin-top: vw;
+	margin-top: -5vw;
 	margin-left: 60vw;
 	animation-name: blink;
   animation-timing-function: linear;
@@ -116,17 +115,19 @@ a:active {
 	font-size: 6vw;
 	color: white;
 	padding-left: 34vw;
-	padding-top: 33vw;
+	padding-top: 34vw;
 	position: absolute;
 }
 .p1{
 	font-family: "Roboto";
 	font-size: 1.5vw;
 	color: white;
-	width: 20vw;
-	padding-left: 73.5vw;
-	padding-top: 39.5vw;
+	width: 25vw;
+	padding-left: 68.5vw;
+	padding-top: 41.5vw;
 	position: absolute;
+	line-height: 2vw;
+	text-align: right;
 }
 
 .second {
@@ -255,4 +256,317 @@ a:active {
 	border: 0.2vw solid black;
 	position: absolute;
 	padding:0; */
+}
+.third{
+	background: black;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	margin-top: 56%;
+
+}
+.pic11{
+	width: 28vw;
+	position: absolute;
+	padding-top: 7vw;
+	padding-left: 8vw;
+}
+.pic10{
+	width: 28vw;
+	position: absolute;
+	padding-top: 13vw;
+	padding-left: 15vw;
+}
+.h4{
+	font-family: "Open Sans";
+	font-weight: 900;
+	font-size: 6vw;
+	color: white;
+	position: absolute;
+	width: 40vw;
+	line-height: 7vw;
+	text-align: right;
+	padding-top: 5vw;
+	padding-left: 50vw;
+}
+.p4{
+	font-family: "Roboto";
+	font-size: 1.5vw;
+	color: white;
+	width: 25vw;
+	position: absolute;
+	line-height: 2.1vw;
+	text-align: right;
+	padding-top: 30vw;
+	padding-left: 65vw;
+
+}
+.square3{
+	width: 20vw;
+	height: 5vw;
+	background-color: black;
+	border: 0.3vw solid white;
+	position: absolute;
+	margin-left: 69.7vw;
+	margin-top: 41vw;
+	/* box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5); */
+}
+.buttom3{
+	font-family:"Roboto";
+	font-size: 2vw;
+	position: absolute;
+	padding-left: 72vw;
+	padding-top: 42.7vw;
+
+	color: white;
+	/* display: inline-block;
+	text-decoration: none;
+	box-sizing: border-box;
+	border: 0.2vw solid black;
+	position: absolute;
+	padding:0; */
+}
+.forth{
+	background: white;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+
+
+}
+.pic13{
+	width: 28vw;
+	position: absolute;
+	margin-top: 6vw;
+	padding-left: 64vw;
+}
+.pic12{
+	width: 28vw;
+	position: absolute;
+	padding-top: 12vw;
+	padding-left: 53vw;
+}
+.h5{
+	font-family: "Open Sans";
+	font-weight: 900;
+	font-size: 6vw;
+	color: black;
+	position: absolute;
+	width: 40vw;
+	line-height: 7vw;
+	text-align: left;
+	padding-top: 4.5vw;
+	padding-left: 7vw;
+}
+.p5{
+	font-family: "Roboto";
+	font-size: 1.5vw;
+	color: black;
+	width: 25vw;
+	position: absolute;
+	line-height: 2.1vw;
+	text-align: left;
+	padding-top: 28vw;
+	padding-left: 7vw;
+
+}
+.square4{
+	width: 20vw;
+	height: 5vw;
+	background-color: white;
+	border: 0.3vw solid black;
+	position: absolute;
+	margin-left: 7vw;
+	margin-top: 40vw;
+	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+.buttom4{
+	font-family:"Roboto";
+	font-size: 2vw;
+	position: absolute;
+	margin-left: 9vw;
+	padding-top: 41.7vw;
+
+	color: black;
+	/* display: inline-block;
+	text-decoration: none;
+	box-sizing: border-box;
+	border: 0.2vw solid black;
+	position: absolute;
+	padding:0; */
+}
+.fifth{
+	background: black;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+
+
+}
+.pic14{
+	width: 28vw;
+	position: absolute;
+	padding-top: 7vw;
+	padding-left: 8vw;
+}
+.pic15{
+	width: 28vw;
+	position: absolute;
+	padding-top: 13vw;
+	padding-left: 15vw;
+}
+.h6{
+	font-family: "Open Sans";
+	font-weight: 900;
+	font-size: 6vw;
+	color: white;
+	position: absolute;
+	width: 40vw;
+	line-height: 7vw;
+	text-align: right;
+	padding-top: 5vw;
+	padding-left: 50vw;
+}
+.p6{
+	font-family: "Roboto";
+	font-size: 1.5vw;
+	color: white;
+	width: 25vw;
+	position: absolute;
+	line-height: 2.1vw;
+	text-align: right;
+	padding-top: 30vw;
+	padding-left: 65vw;
+}
+.six{
+	background: white;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+
+}
+.pic16{
+	width: 28vw;
+	position: absolute;
+	margin-top: 6vw;
+	padding-left: 64vw;
+}
+.pic17{
+	width: 28vw;
+	position: absolute;
+	padding-top: 12vw;
+	padding-left: 53vw;
+}
+.h7{
+	font-family: "Open Sans";
+	font-weight: 900;
+	font-size: 6vw;
+	color: black;
+	position: absolute;
+	width: 40vw;
+	line-height: 7vw;
+	text-align: left;
+	padding-top: 4.5vw;
+	padding-left: 7vw;
+}
+.p7{
+	font-family: "Roboto";
+	font-size: 1.5vw;
+	color: black;
+	width: 25vw;
+	position: absolute;
+	line-height: 2.1vw;
+	text-align: left;
+	padding-top: 23vw;
+	padding-left: 7vw;
+}
+.square5{
+	width: 20vw;
+	height: 5vw;
+	background-color: white;
+	border: 0.3vw solid black;
+	position: absolute;
+	margin-left: 7vw;
+	margin-top: 36vw;
+	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+.buttom5{
+	font-family:"Roboto";
+	font-size: 2vw;
+	position: absolute;
+	margin-left: 9vw;
+	padding-top: 37.7vw;
+
+	color: black;
+	/* display: inline-block;
+	text-decoration: none;
+	box-sizing: border-box;
+	border: 0.2vw solid black;
+	position: absolute;
+	padding:0; */
+}
+footer{
+	background: black;
+	width: 100%;
+	height: 20vw;
+	position: relative;
+
+}
+.contact{
+	font-family:"Roboto";
+	font-size: 1.5vw;
+	color: white;
+	text-decoration: none;
+	padding-top: 3vw;
+	margin-left: 6vw;
+}
+.adress{
+	font-family: "Roboto";
+	font-size: 1.3vw;
+	color: white;
+	width: 17vw;
+	position: absolute;
+	line-height: 1.9vw;
+	text-align: left;
+	margin-top: 1vw;
+	margin-left: 6vw;
+}
+.curators{
+	position: absolute;
+	font-family:"Roboto";
+	font-size: 1.5vw;
+	color: white;
+	text-decoration: none;
+	margin-top: -1.5vw;
+	margin-left: 45vw;
+}
+.name{
+	font-family:"Roboto";
+	font-size: 1.3vw;
+	color: white;
+	width: 15vw;
+	text-decoration: none;
+	line-height: 1.9vw;
+	padding-top: 1vw;
+	margin-left: 45vw;
+}
+
+.if{
+	position: absolute;
+	font-family:"Roboto";
+	font-size: 1.5vw;
+	color: white;
+	text-align: right;
+	margin-top: -6.5vw;
+	margin-left: 68vw;
+	width: 25vw;
+}
+.hse{
+	font-family:"Roboto";
+	font-size: 1.3vw;
+	color: white;
+	text-decoration: none;
+	line-height: 1.9vw;
+	padding-top: 7vw;
+	margin-left: 6vw;
 }
