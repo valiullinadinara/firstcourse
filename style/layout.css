@@ -570,3 +570,32 @@ footer{
 	padding-top: 7vw;
 	margin-left: 6vw;
 }
+.q1{
+	width: 5vw;
+	height: 5vw;
+	background-color: white;
+	position: absolute;
+	margin-left: 81vw;
+	margin-top: -5vw;
+}
+.q2{
+	width: 5vw;
+	height: 5vw;
+	background-color: white;
+	position: absolute;
+	margin-left: 88vw;
+	margin-top: -5vw;
+
+}
+.q3{
+	width: 5vw;
+	height: 5vw;
+	background-color: white;
+	position: absolute;
+	margin-left: 74vw;
+	margin-top: -5vw;
+}
+/* .pic18{
+	width: 2vw;
+	position: absolute;
+} */
