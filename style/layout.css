@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gentium+Basic&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+</style>
+*{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 .first {
 	background: black;
 	width: 100%;
@@ -13,7 +23,7 @@ header{
 	background: black;
 }
 a{
-	font-family:"Roboto";
+	font-family: "AvantGardeGothicCTT";
 	font-size: 2vw;
 	color: white;
 	text-decoration: none;
@@ -110,7 +120,7 @@ a:active {
   }
 }
 .h1 {
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: white;
@@ -118,8 +128,9 @@ a:active {
 	padding-top: 34vw;
 	position: absolute;
 }
+
 .p1{
-	font-family: "Roboto";
+	font-family: 'Roboto', serif;
 	font-size: 1.5vw;
 	color: white;
 	width: 25vw;
@@ -162,7 +173,7 @@ a:active {
 }
 
 .h2 {
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: black;
@@ -210,7 +221,7 @@ a:active {
 	padding:0; */
 }
 .h3 {
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: white;
@@ -278,7 +289,7 @@ a:active {
 	padding-left: 15vw;
 }
 .h4{
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: white;
@@ -347,7 +358,7 @@ a:active {
 	padding-left: 53vw;
 }
 .h5{
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: black;
@@ -416,7 +427,7 @@ a:active {
 	padding-left: 15vw;
 }
 .h6{
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: white;
@@ -458,7 +469,7 @@ a:active {
 	padding-left: 53vw;
 }
 .h7{
-	font-family: "Open Sans";
+	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
 	font-size: 6vw;
 	color: black;
@@ -599,3 +610,223 @@ footer{
 	width: 2vw;
 	position: absolute;
 } */
+@media (max-width: 320px){
+  .first{
+    height: 35vh;
+  }
+  .logo{
+    width: 70%;
+    margin-left: 15vw;
+    padding-top: 18vw;
+  }
+  .pic1{
+    margin-top: 3vw;
+    margin-left: 1vw;
+  }
+  .pic2{
+    margin-top: 2vw;
+  }
+  .pic4{
+    margin-top: 17vw;
+    margin-left: 80vw;
+  }
+  .pic5{
+    margin-top: 25vw;
+    margin-left: 55vw;
+  }
+  .h1{
+    padding-left: 11vw;
+    padding-top: 48vw;
+    font-size: 8vw;
+  }
+  .p1{
+    padding-left: 30vw;
+    padding-top: 57.5vw;
+    text-align: center;
+    font-size: 3vw;
+    width: 40vw;
+    line-height: 3.5vw;
+  }
+  .second{
+    height: 25vh;
+  }
+  .third{
+    height: 70vh;
+
+  }
+  .pic11{
+    padding-left: 10vw;
+    width: 60vw;
+    padding-top: 8vw;
+  }
+  .pic10{
+    padding-left: 30vw;
+    width: 60vw;
+    padding-top: 18vw;
+  }
+  .h4{
+    padding-top: 110vw;
+    width: 80vw;
+    padding-left: 10vw;
+    text-align: right;
+    font-size: 7.5vw;
+
+  }
+  .p4{
+    padding-top: 128vw;
+    font-size: 3.5vw;
+    line-height: 4.4vw;
+    width: 60vw;
+    text-align: right;
+    padding-left: 30vw;
+
+  }
+  .square3{
+    width: 28vw;
+  	height: 7vw;
+
+  	border: 0.3vw solid white;
+  	position: absolute;
+  	margin-left: 61.6vw;
+  	margin-top: 144.5vw;
+  }
+  .buttom3{
+  	font-size: 3vw;
+  	position: absolute;
+  	padding-left: 64vw;
+  	padding-top: 146.5vw;
+  }
+  .forth{
+    height: 73vh;
+  }
+  .pic13{
+    padding-left: 30vw;
+    width: 60vw;
+    padding-top: 4vw;
+  }
+  .pic12{
+    padding-left: 10vw;
+    width: 60vw;
+    padding-top: 18vw;
+  }
+  .h5{
+    padding-top: 110vw;
+    width: 80vw;
+    padding-left: 10vw;
+    text-align: left;
+    font-size: 7.5vw;
+
+  }
+  .p5{
+    padding-top: 128vw;
+    font-size: 3.5vw;
+    line-height: 4.4vw;
+    width: 60vw;
+    text-align: left;
+    padding-left: 10vw;
+
+  }
+  .square4{
+    width: 28vw;
+  	height: 7vw;
+  	position: absolute;
+  	margin-left: 10vw;
+  	margin-top: 150vw;
+  }
+  .buttom4{
+  	font-size: 3vw;
+  	position: absolute;
+  	padding-left: 3.5vw;
+  	padding-top: 152vw;
+  }
+  .fifth{
+    height: 70vh;
+
+  }
+  .pic14{
+    padding-left: 10vw;
+    width: 60vw;
+    padding-top: 8vw;
+  }
+  .pic15{
+    padding-left: 30vw;
+    width: 60vw;
+    padding-top: 18vw;
+  }
+  .h6{
+    padding-top: 110vw;
+    width: 80vw;
+    padding-left: 10vw;
+    text-align: right;
+    font-size: 7.5vw;
+
+  }
+  .p6{
+    padding-top: 128vw;
+    font-size: 3.5vw;
+    line-height: 4.4vw;
+    width: 60vw;
+    text-align: right;
+    padding-left: 30vw;
+
+  }
+  .square3{
+    width: 28vw;
+  	height: 7vw;
+
+  	border: 0.3vw solid white;
+  	position: absolute;
+  	margin-left: 61.6vw;
+  	margin-top: 144.5vw;
+  }
+  .buttom3{
+  	font-size: 3vw;
+  	position: absolute;
+  	padding-left: 64vw;
+  	padding-top: 146.5vw;
+  }
+  .six{
+    height: 73vh;
+  }
+  .pic16{
+    padding-left: 30vw;
+    width: 60vw;
+    padding-top: 4vw;
+  }
+  .pic17{
+    padding-left: 10vw;
+    width: 60vw;
+    padding-top: 18vw;
+  }
+  .h7{
+    padding-top: 110vw;
+    width: 80vw;
+    padding-left: 10vw;
+    text-align: left;
+    font-size: 7.5vw;
+
+  }
+  .p7{
+    padding-top: 128vw;
+    font-size: 3.5vw;
+    line-height: 4.4vw;
+    width: 60vw;
+    text-align: left;
+    padding-left: 10vw;
+
+  }
+  .square5{
+    width: 28vw;
+  	height: 7vw;
+  	position: absolute;
+  	margin-left: 10vw;
+  	margin-top: 150vw;
+  }
+  .buttom5{
+  	font-size: 3vw;
+  	position: absolute;
+  	padding-left: 3.5vw;
+  	padding-top: 152vw;
+  }
+
+}
