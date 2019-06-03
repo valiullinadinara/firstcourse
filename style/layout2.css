@@ -28,12 +28,6 @@ a{
 	padding-top: 3vw;
 	padding-right: 7vw;
 }
-/* a:visited {
-	color: white;
-}
-a:active {
-	color: white;
-} */
 .menu{
   display: flex;
   flex-wrap:  wrap;
@@ -46,14 +40,6 @@ a:active {
 }
 .pic14, .pic10, .pic16, .pic12, .pic22, .pic22, .pic21 {
   width: 25vw;
-  /* height: 60vh; */
-  /* display: block;
-    max-width: 40%;
-    max-height: 50%; */
-  /* margin-left: 0.1vw;
-  margin-right: 0.1vw;
-  margin-top: 1vw;
-  margin-bottom: 7vw; */
 }
 .d1, .d2, .d3, .d4, .d5, .d6{
   margin-left: 0.1vw;
