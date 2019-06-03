@@ -134,7 +134,7 @@ a:active {
 	font-size: 1.5vw;
 	color: white;
 	width: 25vw;
-	padding-left: 68.5vw;
+	padding-left: 66vw;
 	padding-top: 41.5vw;
 	position: absolute;
 	line-height: 2vw;
@@ -568,9 +568,10 @@ footer{
 	font-size: 1.5vw;
 	color: white;
 	text-align: right;
-	margin-top: -6.5vw;
+	margin-top: -6.7vw;
 	margin-left: 68vw;
 	width: 25vw;
+  line-height: 2vw
 }
 .hse{
 	font-family:"Roboto";
@@ -581,31 +582,28 @@ footer{
 	padding-top: 7vw;
 	margin-left: 6vw;
 }
-.q1{
-	width: 5vw;
-	height: 5vw;
-	background-color: white;
-	position: absolute;
-	margin-left: 81vw;
-	margin-top: -5vw;
-}
-.q2{
-	width: 5vw;
-	height: 5vw;
-	background-color: white;
-	position: absolute;
-	margin-left: 88vw;
-	margin-top: -5vw;
+.pic18{
+  width: 3vw;
+  padding-left: 90vw;
+  margin-top: -26vw;
+  padding-bottom: 2vw;
 
 }
-.q3{
-	width: 5vw;
-	height: 5vw;
-	background-color: white;
-	position: absolute;
-	margin-left: 74vw;
-	margin-top: -5vw;
+.pic19{
+  width: 4.5vw;
+  padding-left: 83vw;
+  margin-top: -26vw;
+  padding-bottom: 3.4vw;
+
 }
+/* .pic20{
+  width: 1.5vw;
+  padding-left: 79vw;
+  margin-top: -26vw;
+  padding-bottom: 4.8vw;
+
+} */
+
 /* .pic18{
 	width: 2vw;
 	position: absolute;
@@ -645,7 +643,7 @@ footer{
     text-align: center;
     font-size: 3vw;
     width: 40vw;
-    line-height: 3.5vw;
+    line-height: 3.8vw;
   }
   .second{
     height: 25vh;
@@ -827,6 +825,21 @@ footer{
   	position: absolute;
   	padding-left: 3.5vw;
   	padding-top: 152vw;
+  }
+  header{
+    justify-content: space-evenly;
+  }
+  header a{
+    font-size: 3vw;
+    padding-left: 7vw;
+  }
+  .buttom1{
+    padding-top: 1vw;
+    margin-top: -13.5vw;
+  }
+  .buttom2{
+    padding-top: 1vw;
+    margin-top: -13.5vw;
   }
 
 }
