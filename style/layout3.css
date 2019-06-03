@@ -71,31 +71,32 @@ p{
   margin-top: -40vw;
   margin-left: 45vw;
 }
-.work{
-  position: absolute;
-  font-family: "AvantGardeGothicCTT";
-	font-size: 3vw;
-  padding-top: 65vw;
-  padding-right: 55.5vw;
-}
-.menu{
+.menu2{
   display: flex;
   flex-wrap:  wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   background: white;
 	width: 100%;
 	height: 100vh;
 	position: relative;
   padding-top: 2vw;
 }
+.works{
+  position: absolute;
+  font-family: "AvantGardeGothicCTT";
+  font-size: 3vw;
+  padding-top: 1vw;
+  padding-right: 56vw;
+
+}
 .pic14, .pic10, .pic16, .pic12, .pic22, .pic22, .pic21 {
   width: 10vw;
 }
 .d1, .d2, .d3, .d4, .d5, .d6{
-  margin-left: 0.1vw;
+  margin-left: 1.8vw;
   margin-right: 0.1vw;
-  margin-top: 1vw;
-  margin-bottom: 4vw;
+  margin-top: 7vw;
+
 }
 h1{
   padding-top: 1vw;
@@ -107,8 +108,8 @@ h2{
   font-family: "Roboto";
   font-weight: medium;
   color: #AFAFAF;
-  padding-top: 0.8vw;
-  font-size: 1.2vw;
+  padding-top: 0.5vw;
+  font-size: 0.8vw;
 }
 
 @media (max-width: 320px){
