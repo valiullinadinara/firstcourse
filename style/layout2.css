@@ -44,6 +44,7 @@ a{
   margin-right: 0.1vw;
   margin-top: 1vw;
   margin-bottom: 4vw;
+  height: 10vw;
 }
 h1{
   padding-top: 1vw;
@@ -152,8 +153,9 @@ footer{
 
   }
   .d1, .d2, .d3, .d4, .d5, .d6{
-    margin: 0 auto;
+    /* margin: 0 auto; */
     margin-bottom: 4vw;
+
   }
   h1{
     font-size: 5vw;
