@@ -41,12 +41,7 @@ a{
 	padding-top: 3vw;
 	padding-right: 7vw;
 }
-/* a:visited {
-	color: white;
-}
-a:active {
-	color: white;
-} */
+
 .logo{
 	width: 50%;
 	position: absolute;
@@ -131,7 +126,7 @@ a:active {
   }
 }
 .h1 {
-	font-family: "AvantGardeGothicCTT";
+	font-family: 'AvantGardeGothicCTT';
 	font-weight: 900;
 	font-size: 6vw;
 	color: white;
