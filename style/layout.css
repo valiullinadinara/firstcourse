@@ -4,6 +4,17 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
 </style>
+@font-face
+{
+font-family: 'AvantGardeGothicCTT';
+font-weight: normal;
+font-style: normal;
+
+src: url('../fonts/1.eot');
+src: url('../fonts/HeliosCompressedC.eot?#iefix') format('embedded-opentype'),
+url('../fonts/1.woff') format('woff'),
+url('../fonts/1.ttf') format('truetype');
+}
 *{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
