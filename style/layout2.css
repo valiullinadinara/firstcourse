@@ -18,13 +18,19 @@ header{
 
 }
 
-a{
+header a{
 	font-family: "AvantGardeGothicCTT";
 	font-size: 2vw;
 	color: black;
 	text-decoration: none;
 	padding-top: 3vw;
 	padding-right: 7vw;
+}
+a{
+  text-decoration: none;
+}
+a:visited{
+  color: black;
 }
 .menu{
   display: flex;
@@ -44,7 +50,6 @@ a{
   margin-right: 0.1vw;
   margin-top: 1vw;
   margin-bottom: 4vw;
-  height: 10vw;
 }
 h1{
   padding-top: 1vw;
