@@ -140,7 +140,7 @@ a{
 }
 
 .p1{
-	font-family: 'Roboto', serif;
+	font-family: "Open Sans", serif;
 	font-size: 1.5vw;
 	color: white;
 	width: 25vw;
@@ -195,7 +195,7 @@ a{
 	margin-left: 7vw;
 }
 .p2{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.5vw;
 	color: black;
 	width: 20vw;
@@ -216,7 +216,7 @@ a{
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
 .buttom1{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	margin-left: -16vw;
@@ -243,7 +243,7 @@ a{
 	margin-left: 8vw;
 }
 .p3{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	width: 25vw;
@@ -264,7 +264,7 @@ a{
 	/* box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5); */
 }
 .buttom2{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	margin-left: -14vw;
@@ -311,7 +311,7 @@ a{
 	padding-left: 50vw;
 }
 .p4{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	width: 25vw;
@@ -333,7 +333,7 @@ a{
 	/* box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5); */
 }
 .buttom3{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	padding-left: 72vw;
@@ -380,7 +380,7 @@ a{
 	padding-left: 7vw;
 }
 .p5{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.5vw;
 	color: black;
 	width: 25vw;
@@ -402,7 +402,7 @@ a{
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
 .buttom4{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	margin-left: 9vw;
@@ -449,7 +449,7 @@ a{
 	padding-left: 50vw;
 }
 .p6{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	width: 25vw;
@@ -491,7 +491,7 @@ a{
 	padding-left: 7vw;
 }
 .p7{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.5vw;
 	color: black;
 	width: 25vw;
@@ -512,7 +512,7 @@ a{
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
 .buttom5{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	margin-left: 9vw;
@@ -534,7 +534,7 @@ footer{
 
 }
 .contact{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	text-decoration: none;
@@ -542,7 +542,7 @@ footer{
 	margin-left: 6vw;
 }
 .adress{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.3vw;
 	color: white;
 	width: 17vw;
@@ -554,7 +554,7 @@ footer{
 }
 .curators{
 	position: absolute;
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	text-decoration: none;
@@ -562,7 +562,7 @@ footer{
 	margin-left: 45vw;
 }
 .name{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.3vw;
 	color: white;
 	width: 15vw;
@@ -574,7 +574,7 @@ footer{
 
 .if{
 	position: absolute;
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	text-align: right;
@@ -584,7 +584,7 @@ footer{
   line-height: 2vw
 }
 .hse{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.3vw;
 	color: white;
 	text-decoration: none;
