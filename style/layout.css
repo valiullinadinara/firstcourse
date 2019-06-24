@@ -52,20 +52,14 @@ a{
 	padding-top: 3vw;
 	padding-right: 7vw;
 }
-
 .logo{
 	width: 50%;
 	position: absolute;
-	/* padding-top: 200px;
-	padding-left: 200px; */
 	text-align: center;
-	/* display: block;
-  margin: 0 auto; */
 	padding-top: 13vw;
 	z-index: 3;
 	margin-left: 25vw;
 }
-
 .pic1 {
 	width: 26%;
 	position: absolute;
@@ -76,7 +70,6 @@ a{
   animation-duration: 0.2s;
   animation-iteration-count: infinite;
 }
-
 .pic2 {
 	width: 15%;
 	position: absolute;
@@ -87,7 +80,6 @@ a{
   animation-duration: 0.3s;
   animation-iteration-count: infinite;
 }
-
 .pic3 {
 	width: 10%;
 	position: absolute;
@@ -98,7 +90,6 @@ a{
   animation-duration: 0.2s;
   animation-iteration-count: infinite;
 }
-
 .pic4 {
 	width: 18%;
 	position: absolute;
@@ -109,7 +100,6 @@ a{
   animation-duration: 0.3s;
   animation-iteration-count: infinite;
 }
-
 .pic5 {
 	width: 12%;
 	position: absolute;
@@ -120,7 +110,6 @@ a{
   animation-duration: 0.2s;
   animation-iteration-count: infinite;
 }
-
 .pic6 {
 	width: 17%;
 	position: absolute;
@@ -145,7 +134,6 @@ a{
 	padding-top: 34vw;
 	position: absolute;
 }
-
 .p1{
 	font-family: "Open Sans", serif;
 	font-size: 1.5vw;
@@ -157,38 +145,24 @@ a{
 	line-height: 2vw;
 	text-align: right;
 }
-
 .second {
-	/* background: red;
-	width: 50%;
-	height: 100vh;
-	position: relative; */
-
 	position: absolute;
 	display:table;
   width: 100%;
   height: 100%;
 }
 .box {
-
   display: table-cell;
   text-align: center;
   vertical-align:middle;
   line-height: 13em;
-
-
 }
-
 .box1 {
   background: white;
-
 }
-
 .box2 {
   background: black;
-
 }
-
 .h2 {
 	font-family: "AvantGardeGothicCTT";
 	font-weight: 900;
@@ -222,22 +196,14 @@ a{
 	margin-top: 17vw;
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
-
-
 .buttom1{
 	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	margin-left: -16vw;
 	padding-top: 12.7vw;
-
+  cursor: pointer;
 	color: black;
-	/* display: inline-block;
-	text-decoration: none;
-	box-sizing: border-box;
-	border: 0.2vw solid black;
-	position: absolute;
-	padding:0; */
 }
 .h3 {
 	font-family: "AvantGardeGothicCTT";
@@ -270,7 +236,6 @@ a{
 	position: absolute;
 	margin-left: 9vw;
 	margin-top: 17vw;
-	/* box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5); */
 }
 .buttom2{
 	font-family:"Open Sans";
@@ -278,14 +243,8 @@ a{
 	position: absolute;
 	margin-left: -14vw;
 	padding-top: 12.7vw;
-
+  cursor: pointer;
 	color: white;
-	/* display: inline-block;
-	text-decoration: none;
-	box-sizing: border-box;
-	border: 0.2vw solid black;
-	position: absolute;
-	padding:0; */
 }
 .third{
 	background: black;
@@ -293,7 +252,6 @@ a{
 	height: 100vh;
 	position: relative;
 	margin-top: 56%;
-
 }
 .pic11{
 	width: 28vw;
@@ -329,7 +287,6 @@ a{
 	text-align: right;
 	padding-top: 30vw;
 	padding-left: 65vw;
-
 }
 .square3{
 	width: 20vw;
@@ -339,7 +296,6 @@ a{
 	position: absolute;
 	margin-left: 69.7vw;
 	margin-top: 41vw;
-	/* box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5); */
 }
 .buttom3{
 	font-family:"Open Sans";
@@ -347,22 +303,14 @@ a{
 	position: absolute;
 	padding-left: 72vw;
 	padding-top: 42.7vw;
-
+  cursor: pointer;
 	color: white;
-	/* display: inline-block;
-	text-decoration: none;
-	box-sizing: border-box;
-	border: 0.2vw solid black;
-	position: absolute;
-	padding:0; */
 }
 .forth{
 	background: white;
 	width: 100%;
 	height: 100vh;
 	position: relative;
-
-
 }
 .pic13{
 	width: 28vw;
@@ -410,35 +358,20 @@ a{
 	margin-top: 40vw;
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
-/* .square4:hover{
-	background-color: black;
-} */
 .buttom4{
 	font-family:"Open Sans";
 	font-size: 2vw;
 	position: absolute;
 	margin-left: 9vw;
 	padding-top: 41.7vw;
-
+  cursor: pointer;
 	color: black;
-	/* display: inline-block;
-	text-decoration: none;
-	box-sizing: border-box;
-	border: 0.2vw solid black;
-	position: absolute;
-	padding:0; */
 }
-/* .buttom4:hover{
-
-  color: white;
-} */
 .fifth{
 	background: black;
 	width: 100%;
 	height: 100vh;
 	position: relative;
-
-
 }
 .pic14{
 	width: 28vw;
@@ -533,21 +466,14 @@ a{
 	position: absolute;
 	margin-left: 9vw;
 	padding-top: 37.7vw;
-
+  cursor: pointer;
 	color: black;
-	/* display: inline-block;
-	text-decoration: none;
-	box-sizing: border-box;
-	border: 0.2vw solid black;
-	position: absolute;
-	padding:0; */
 }
 footer{
 	background: black;
 	width: 100%;
 	height: 20vw;
 	position: relative;
-
 }
 .contact{
 	font-family:"Open Sans";
@@ -587,7 +513,6 @@ footer{
 	padding-top: 1vw;
 	margin-left: 45vw;
 }
-
 .if{
 	position: absolute;
 	font-family:"Open Sans";
@@ -622,18 +547,6 @@ footer{
   padding-bottom: 3.4vw;
 
 }
-/* .pic20{
-  width: 1.5vw;
-  padding-left: 79vw;
-  margin-top: -26vw;
-  padding-bottom: 4.8vw;
-
-} */
-
-/* .pic18{
-	width: 2vw;
-	position: absolute;
-} */
 @media (max-width: 320px){
   .first{
     height: 35vh;
@@ -676,7 +589,6 @@ footer{
   }
   .third{
     height: 70vh;
-
   }
   .pic11{
     padding-left: 10vw;
@@ -694,7 +606,6 @@ footer{
     padding-left: 10vw;
     text-align: right;
     font-size: 7.5vw;
-
   }
   .p4{
     padding-top: 128vw;
@@ -703,12 +614,10 @@ footer{
     width: 60vw;
     text-align: right;
     padding-left: 30vw;
-
   }
   .square3{
     width: 28vw;
   	height: 7vw;
-
   	border: 0.3vw solid white;
   	position: absolute;
   	margin-left: 61.6vw;
@@ -739,7 +648,6 @@ footer{
     padding-left: 10vw;
     text-align: left;
     font-size: 7.5vw;
-
   }
   .p5{
     padding-top: 128vw;
@@ -748,7 +656,6 @@ footer{
     width: 60vw;
     text-align: left;
     padding-left: 10vw;
-
   }
   .square4{
     width: 28vw;
@@ -765,7 +672,6 @@ footer{
   }
   .fifth{
     height: 70vh;
-
   }
   .pic14{
     padding-left: 10vw;
@@ -783,7 +689,6 @@ footer{
     padding-left: 10vw;
     text-align: right;
     font-size: 7.5vw;
-
   }
   .p6{
     padding-top: 128vw;
@@ -792,12 +697,10 @@ footer{
     width: 60vw;
     text-align: right;
     padding-left: 30vw;
-
   }
   .square3{
     width: 28vw;
   	height: 7vw;
-
   	border: 0.3vw solid white;
   	position: absolute;
   	margin-left: 61.6vw;
@@ -837,7 +740,6 @@ footer{
     width: 60vw;
     text-align: left;
     padding-left: 10vw;
-
   }
   .square5{
     width: 28vw;
@@ -867,5 +769,4 @@ footer{
     padding-top: 1vw;
     margin-top: -13.5vw;
   }
-
 }

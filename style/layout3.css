@@ -47,6 +47,10 @@ a{
 	text-decoration: none;
 	padding-top: 3vw;
 	padding-right: 7vw;
+  cursor: pointer
+}
+.menu2 a{
+  padding-right: 0vw;
 }
 /* a:visited {
 	color: white;
@@ -112,10 +116,14 @@ p{
 .pic14, .pic10, .pic16, .pic12, .pic22, .pic22, .pic21 {
   width: 10vw;
 }
+.pic14:hover, .pic10:hover, .pic16:hover, .pic12:hover, .pic22:hover, .pic22:hover, .pic21:hover {
+  width: 11vw;
+}
 .d1, .d2, .d3, .d4, .d5, .d6{
   margin-left: 1.8vw;
   margin-right: 0.1vw;
-  margin-top: 7vw;
+  margin-top: 3vw;
+  cursor: pointer
 
 }
 h1{
