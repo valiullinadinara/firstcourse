@@ -19,6 +19,12 @@ url('../fonts/1.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
+.hidden{
+opacity:0;
+}
+.visible{
+opacity:100%;
+}
 *{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -31,6 +37,7 @@ url('../fonts/1.ttf') format('truetype');
 }
 body{
 	overflow: scroll;
+  scroll-behavior: smooth;
 }
 header{
 	display: flex;
@@ -215,6 +222,8 @@ a{
 	margin-top: 17vw;
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
+
+
 .buttom1{
 	font-family:"Open Sans";
 	font-size: 2vw;
@@ -401,6 +410,9 @@ a{
 	margin-top: 40vw;
 	box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
+/* .square4:hover{
+	background-color: black;
+} */
 .buttom4{
 	font-family:"Open Sans";
 	font-size: 2vw;
@@ -416,6 +428,10 @@ a{
 	position: absolute;
 	padding:0; */
 }
+/* .buttom4:hover{
+
+  color: white;
+} */
 .fifth{
 	background: black;
 	width: 100%;

@@ -67,6 +67,9 @@ a:visited{
 .pic14, .pic10, .pic16, .pic12, .pic22, .pic22, .pic21 {
   width: 25vw;
 }
+.pic14:hover, .pic10:hover, .pic16:hover, .pic12:hover, .pic22:hover, .pic22:hover, .pic21:hover {
+  width: 26vw;
+}
 .d1, .d2, .d3, .d4, .d5, .d6{
   margin-left: 0.1vw;
   margin-right: 0.1vw;
