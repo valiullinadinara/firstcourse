@@ -120,11 +120,11 @@ a{
   animation-duration: 0.3s;
   animation-iteration-count: infinite;
 }
-@keyframes blink {
+/* @keyframes blink {
   50% {
     opacity: 0;
   }
-}
+} */
 .h1 {
 	font-family: 'AvantGardeGothicCTT';
 	font-weight: 900;
