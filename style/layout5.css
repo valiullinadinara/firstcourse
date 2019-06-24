@@ -9,13 +9,15 @@ src: url('../fonts/HeliosCompressedC.eot?#iefix') format('embedded-opentype'),
 url('../fonts/1.woff') format('woff'),
 url('../fonts/1.ttf') format('truetype');
 }
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
 
 @font-face {
   font-family: "AvantGardeGothicC-Demi";
-  src: url("./font/11.eot"); /* IE9 Compat Modes */
-  src: url("./font/1.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("./font/11.woff") format("woff"), /* Modern Browsers */
-    url("./font/1.woff2") format("woff2"); /* Modern Browsers */
+  src: url("../font/11.eot"); /* IE9 Compat Modes */
+  src: url("../font/1.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/11.woff") format("woff"), /* Modern Browsers */
+    url("../font/1.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
