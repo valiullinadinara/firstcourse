@@ -783,7 +783,7 @@ footer{
     margin-top: -13.5vw;
   }
 }
-@media (min-width: 1440px){
+@media (max-width: 1440px){
   .buttom1{
     padding-top: 20vw;
   }
