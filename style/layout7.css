@@ -9,15 +9,13 @@ src: url('../fonts/HeliosCompressedC.eot?#iefix') format('embedded-opentype'),
 url('../fonts/1.woff') format('woff'),
 url('../fonts/1.ttf') format('truetype');
 }
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
 
 @font-face {
   font-family: "AvantGardeGothicC-Demi";
-  src: url("../font/11.eot"); /* IE9 Compat Modes */
-  src: url("../font/1.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("../font/11.woff") format("woff"), /* Modern Browsers */
-    url("../font/1.woff2") format("woff2"); /* Modern Browsers */
+  src: url("./font/11.eot"); /* IE9 Compat Modes */
+  src: url("./font/1.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./font/11.woff") format("woff"), /* Modern Browsers */
+    url("./font/1.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
@@ -60,7 +58,7 @@ a{
 } */
 
 .menu{
-  background-image: url('../img/42.jpg');
+  background-image: url('../img/52.jpg');
   background-size: 100% 90%;
 	width: 100%;
 	height: 80vh;
@@ -72,12 +70,12 @@ a{
   font-family: "AvantGardeGothicCTT";
   font-size: 10vw;
   color: white;
-  padding-left: 11vw;
+  padding-left: 8vw;
   padding-top: 10vw;
 }
 .p1{
   text-align: left;
-  font-family: "Roboto";
+  font-family: "Open Sans";
   width: 30vw;
   font-size: 1.5vw;
   line-height: 2.2vw;
@@ -90,7 +88,7 @@ a{
   background: white;
   background-size: 100% 90%;
 	width: 100%;
-	height: 180vw;
+	height: 190vw;
 	position: relative;
 }
 .h2{
@@ -118,26 +116,26 @@ a{
   color: black;
   position: absolute;
   padding-top: 20vw;
-  padding-left: 46vw;
+  padding-left: 44vw;
 }
-.pic40{
+.pic30{
   position: absolute;
-  width: 85vw;
+  width: 40vw;
   padding-top: 25vw;
   padding-left: 8vw;
 }
-.pic41{
+.pic32{
   position: absolute;
-  width: 85vw;
-  padding-top: 115vw;
-  padding-left: 8vw;
+  width: 40vw;
+  padding-top: 25vw;
+  padding-left: 53vw;
 }
 .h4{
   font-family: "AvantGardeGothicCTT";
   font-size: 2vw;
   color: black;
   position: absolute;
-  padding-top: 90vw;
+  padding-top: 60vw;
   padding-left: 12vw;
 }
 .p4{
@@ -148,7 +146,7 @@ a{
   position: absolute;
   width: 30vw;
   text-align: left;
-  padding-top: 93vw;
+  padding-top: 63vw;
   padding-left: 12vw;
 }
 .h5{
@@ -156,7 +154,7 @@ a{
   font-size: 2vw;
   color: black;
   position: absolute;
-  padding-top: 90vw;
+  padding-top: 60vw;
   padding-left: 58vw;
 }
 .p5{
@@ -167,7 +165,7 @@ a{
   position: absolute;
   width: 30vw;
   text-align: left;
-  padding-top: 93vw;
+  padding-top: 63vw;
   padding-left: 58vw;
 }
 .h6{
@@ -179,7 +177,24 @@ a{
   padding-left: 40vw;
 }
 
-
+.pic34{
+  position: absolute;
+  width: 40vw;
+  padding-top: 90vw;
+  padding-left: 8vw;
+}
+.pic35{
+  position: absolute;
+  width: 40vw;
+  padding-top: 90vw;
+  padding-left: 53vw;
+}
+.pic33{
+  position: absolute;
+  width: 85vw;
+  padding-top: 123vw;
+  padding-left: 8vw;
+}
 footer{
 	background: black;
 	width: 100%;
@@ -188,7 +203,7 @@ footer{
 
 }
 .contact{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	text-decoration: none;
@@ -196,7 +211,7 @@ footer{
 	margin-left: 6vw;
 }
 .adress{
-	font-family: "Roboto";
+	font-family: "Open Sans";
 	font-size: 1.3vw;
 	color: white;
 	width: 17vw;
@@ -208,7 +223,7 @@ footer{
 }
 .curators{
 	position: absolute;
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	text-decoration: none;
@@ -216,7 +231,7 @@ footer{
 	margin-left: 45vw;
 }
 .name{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.3vw;
 	color: white;
 	width: 15vw;
@@ -228,7 +243,7 @@ footer{
 
 .if{
 	position: absolute;
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.5vw;
 	color: white;
 	text-align: right;
@@ -238,83 +253,11 @@ footer{
   line-height: 2vw
 }
 .hse{
-	font-family:"Roboto";
+	font-family:"Open Sans";
 	font-size: 1.3vw;
 	color: white;
 	text-decoration: none;
 	line-height: 1.9vw;
 	padding-top: 7vw;
 	margin-left: 6vw;
-}
-@media (max-width: 320px) {
-  .menu{
-    height: 28vh;
-  }
-  .menu2{
-    height: 100vh;
-  }
-  .p1{
-    padding-left: 25vw;
-    width: 50vw;
-    font-size: 3vw;
-    line-height: 4.5vw;
-    text-align: center;
-    padding-top: 25vw;
-  }
-  .h2, .h3, .h4, .h5{
-    font-size: 4vw;
-  }
-  .p2{
-    font-size: 2vw;
-    line-height: 3vw;
-    width: 50vw;
-    text-align: center;
-    padding-top: 12vw;
-    padding-left: 27vw;
-  }
-  .h3{
-    font-size: 4vw;
-    padding-top: 29vw;
-    padding-left: 46vw;
-  }
-  .pic40{
-    width: 85vw;
-    padding-top: 36vw;
-    padding-left: 8vw;
-  }
-  .pic41{
-    width: 85vw;
-    padding-top: 153vw;
-    padding-left: 8vw;
-  }
-  .h4{
-    font-size: 4vw;
-    padding-top: 101vw;
-    padding-left: 43vw;
-  }
-  .p4{
-
-    font-size: 2vw;
-    line-height: 3vw;
-    width: 60vw;
-    text-align: center;
-    padding-top: 109vw;
-    padding-left: 23vw;
-  }
-  .h5{
-    font-size: 4vw;
-    color: black;
-    position: absolute;
-    padding-top: 130vw;
-    padding-left: 45vw;
-  }
-  .p5{
-    font-size: 2vw;
-    line-height: 2.8vw;
-    width: 60vw;
-    text-align: center;
-    padding-top: 137vw;
-    padding-left: 23vw;
-  }
-
 }

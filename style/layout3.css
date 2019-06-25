@@ -134,6 +134,72 @@ h2{
   padding-top: 0.5vw;
   font-size: 0.8vw;
 }
+footer{
+	background: black;
+	width: 100%;
+	height: 20vw;
+	position: relative;
+
+}
+.contact{
+	font-family:"Open Sans";
+	font-size: 1.5vw;
+	color: white;
+	text-decoration: none;
+	padding-top: 3vw;
+	margin-left: 6vw;
+}
+.adress{
+	font-family: "Open Sans";
+	font-size: 1.3vw;
+	color: white;
+	width: 17vw;
+	position: absolute;
+	line-height: 1.9vw;
+	text-align: left;
+	margin-top: 1vw;
+	margin-left: 6vw;
+}
+.curators{
+	position: absolute;
+	font-family:"Open Sans";
+	font-size: 1.5vw;
+	color: white;
+	text-decoration: none;
+	margin-top: -1.5vw;
+	margin-left: 45vw;
+}
+.name{
+	font-family:"Open Sans";
+	font-size: 1.3vw;
+	color: white;
+	width: 15vw;
+	text-decoration: none;
+	line-height: 1.9vw;
+	padding-top: 1vw;
+	margin-left: 45vw;
+}
+
+.if{
+	position: absolute;
+	font-family:"Open Sans";
+	font-size: 1.5vw;
+	color: white;
+	text-align: right;
+	margin-top: -6.7vw;
+	margin-left: 68vw;
+	width: 25vw;
+  line-height: 2vw
+}
+.hse{
+	font-family:"Open Sans";
+	font-size: 1.3vw;
+	color: white;
+	text-decoration: none;
+	line-height: 1.9vw;
+	padding-top: 7vw;
+	margin-left: 6vw;
+}
 
 
 @media (max-width: 320px){
