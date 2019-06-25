@@ -51,13 +51,8 @@ a{
 }
 .menu2 a{
   padding-right: 0vw;
+  height: 20vw;
 }
-/* a:visited {
-	color: white;
-}
-a:active {
-	color: white;
-} */
 .menu{
   display: flex;
   flex-wrap:  wrap;
@@ -139,94 +134,13 @@ h2{
   padding-top: 0.5vw;
   font-size: 0.8vw;
 }
-footer{
-	background: black;
-	width: 100%;
-	height: 20vw;
-	position: relative;
-  margin-top: -25vw;
 
-}
-.contact{
-	font-family:"Roboto";
-	font-size: 1.5vw;
-	color: white;
-	text-decoration: none;
-	padding-top: 3vw;
-	margin-left: 6vw;
-}
-.adress{
-	font-family: "Roboto";
-	font-size: 1.3vw;
-	color: white;
-	width: 17vw;
-	position: absolute;
-	line-height: 1.9vw;
-	text-align: left;
-	margin-top: 1vw;
-	margin-left: 6vw;
-}
-.curators{
-	position: absolute;
-	font-family:"Roboto";
-	font-size: 1.5vw;
-	color: white;
-	text-decoration: none;
-	margin-top: -1.5vw;
-	margin-left: 45vw;
-}
-.name{
-	font-family:"Roboto";
-	font-size: 1.3vw;
-	color: white;
-	width: 15vw;
-	text-decoration: none;
-	line-height: 1.9vw;
-	padding-top: 1vw;
-	margin-left: 45vw;
-}
-
-.if{
-	position: absolute;
-	font-family:"Roboto";
-	font-size: 1.5vw;
-	color: white;
-	text-align: right;
-	margin-top: -6.7vw;
-	margin-left: 68vw;
-	width: 25vw;
-  line-height: 2vw
-}
-.hse{
-	font-family:"Roboto";
-	font-size: 1.3vw;
-	color: white;
-	text-decoration: none;
-	line-height: 1.9vw;
-	padding-top: 7vw;
-	margin-left: 6vw;
-}
-.pic18{
-  width: 3vw;
-  padding-left: 90vw;
-  margin-top: -26vw;
-  padding-bottom: 2vw;
-
-}
-.pic19{
-  width: 4.5vw;
-  padding-left: 83vw;
-  margin-top: -26vw;
-  padding-bottom: 3.4vw;
-
-}
 
 @media (max-width: 320px){
   .menu{
     flex-direction: column;
     justify-content: flex-start;
     flex-wrap: nowrap;
-
 
   }
   a{
@@ -236,5 +150,53 @@ footer{
   }
   .web{
     padding-left: 24vw;
+  }
+  .pic23{
+    width: 70vw;
+    height: 70vw;
+    margin-left: 25vw;
+    margin-top: 10vw;
+  }
+  .h10, .h20{
+    margin-left: 25vw;
+    margin-top: 7vw;
+  }
+  p{
+    font-size: 3.5vw;
+    line-height: 6vw;
+    width: 60vw;
+    margin-top: 7vw;
+    margin-left: 29vw;
+    text-align: center;
+  }
+  .menu{
+    height: 80vh;
+  }
+  .menu2{
+    /* flex-direction: column; */
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-left: 20vw;
+
+  }
+  .pic14, .pic10, .pic16, .pic12, .pic22, .pic22, .pic21 {
+    width: 35vw;
+  }
+  .works{
+    font-size: 7vw;
+    margin-left: 25vw;
+    margin-top: -7vw;
+  }
+  .h1{
+    font-size: 3vw;
+  }
+  .h2{
+    font-size: 2vw;
+  }
+  .d1, .d2, .d3, .d4, .d5, .d6{
+    margin-bottom: -20vw;
+  }
+  a{
+    padding-right: 2vw;
   }
 }

@@ -120,11 +120,11 @@ a{
   animation-duration: 0.3s;
   animation-iteration-count: infinite;
 }
-/* @keyframes blink {
+@keyframes blink {
   50% {
     opacity: 0;
   }
-} */
+}
 .h1 {
 	font-family: 'AvantGardeGothicCTT';
 	font-weight: 900;
@@ -551,40 +551,47 @@ footer{
 }
 @media (max-width: 320px){
   .first{
-    height: 35vh;
+    height: 55vh;
   }
   .logo{
     width: 70%;
     margin-left: 15vw;
-    padding-top: 18vw;
+    padding-top: 38vw;
   }
   .pic1{
-    margin-top: 3vw;
+    margin-top: 23vw;
     margin-left: 1vw;
   }
   .pic2{
-    margin-top: 2vw;
+    margin-top: 22vw;
+  }
+  .pic3{
+    margin-top: 18vw;
+
   }
   .pic4{
-    margin-top: 17vw;
+    margin-top: 37vw;
     margin-left: 80vw;
   }
   .pic5{
-    margin-top: 25vw;
+    margin-top: 45vw;
     margin-left: 55vw;
+  }
+  .pic6{
+    margin-top: 40vw;
   }
   .h1{
     padding-left: 11vw;
-    padding-top: 48vw;
+    padding-top: 73vw;
     font-size: 8vw;
   }
   .p1{
-    padding-left: 30vw;
-    padding-top: 57.5vw;
+    padding-left: 21vw;
+    padding-top: 83.5vw;
     text-align: center;
-    font-size: 3vw;
-    width: 40vw;
-    line-height: 3.8vw;
+    font-size: 3.3vw;
+    width: 60vw;
+    line-height: 4.4vw;
   }
   .second{
     height: 25vh;
