@@ -542,20 +542,7 @@ footer{
 	padding-top: 7vw;
 	margin-left: 6vw;
 }
-.pic18{
-  width: 3vw;
-  padding-left: 90vw;
-  margin-top: -26vw;
-  padding-bottom: 2vw;
 
-}
-.pic19{
-  width: 4.5vw;
-  padding-left: 83vw;
-  margin-top: -26vw;
-  padding-bottom: 3.4vw;
-
-}
 @media (max-width: 320px){
   .first{
     height: 50vh;
@@ -786,7 +773,7 @@ footer{
     margin-top: -13.5vw;
   }
 }
-@media (max-width: 2560px){
+@media (min-width: 2560px){
   .buttom1{
     padding-top: 15.5vw;
   }
