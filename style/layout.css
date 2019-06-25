@@ -546,7 +546,7 @@ footer{
 
 @media (max-width: 320px){
   .first{
-    height: 50vh;
+    height: 40vh;
   }
   .logo{
     width: 70%;
@@ -589,7 +589,7 @@ footer{
     line-height: 4.4vw;
   }
   .second{
-    height: 25vh;
+    height: 20vh;
   }
   .third{
     height: 70vh;
