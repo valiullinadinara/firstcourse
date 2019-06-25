@@ -261,3 +261,16 @@ footer{
 	padding-top: 7vw;
 	margin-left: 6vw;
 }
+@media (max-width: 320px){
+  .menu{
+    height: 30vh;
+  }
+  .p1{
+    text-align: center;
+    width: 60vw;
+    font-size: 2.5vw;
+    line-height: 3.5vw;
+    padding-top: 25vw;
+    padding-left: 22vw;
+  }
+}
