@@ -484,10 +484,12 @@ footer{
 .contact{
 	font-family:"Open Sans";
 	font-size: 1.5vw;
+  line-height: 2.5vw;
 	color: white;
 	text-decoration: none;
 	padding-top: 3vw;
 	margin-left: 6vw;
+  width: 30vw;
 }
 .adress{
 	font-family: "Open Sans";
@@ -497,7 +499,7 @@ footer{
 	position: absolute;
 	line-height: 1.9vw;
 	text-align: left;
-	margin-top: 1vw;
+	margin-top: -1vw;
 	margin-left: 6vw;
 }
 .curators{
@@ -506,7 +508,7 @@ footer{
 	font-size: 1.5vw;
 	color: white;
 	text-decoration: none;
-	margin-top: -1.5vw;
+	margin-top: -7vw;
 	margin-left: 45vw;
 }
 .name{
@@ -516,8 +518,9 @@ footer{
 	width: 15vw;
 	text-decoration: none;
 	line-height: 1.9vw;
-	padding-top: 1vw;
+	padding-top: -1vw;
 	margin-left: 45vw;
+  margin-top: -5vw;
 }
 .if{
 	position: absolute;
