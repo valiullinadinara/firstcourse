@@ -91,7 +91,7 @@ h2{
 }
 footer{
 	background: black;
-	width: 100%;
+	width: 100vw;
 	height: 20vw;
 	position: relative;
   margin-top: 40vw;
@@ -209,6 +209,9 @@ footer{
     padding-left: 2vw;
   }
   footer{
-    margin-top: 570vw;
+    margin-top: 590vw;
+    width: 130vw;
   }
+
+
 }

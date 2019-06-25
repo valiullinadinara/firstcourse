@@ -261,11 +261,15 @@ a{
 	padding-top: 7vw;
 	padding-left: 8vw;
 }
+
 .pic10{
 	width: 28vw;
 	position: absolute;
 	padding-top: 13vw;
 	padding-left: 15vw;
+}
+.pic11:hover{
+  width: 30vw;
 }
 .h4{
 	font-family: "AvantGardeGothicCTT";
@@ -551,7 +555,7 @@ footer{
 }
 @media (max-width: 320px){
   .first{
-    height: 55vh;
+    height: 50vh;
   }
   .logo{
     width: 70%;
@@ -639,7 +643,7 @@ footer{
   	padding-top: 146.5vw;
   }
   .forth{
-    height: 73vh;
+    height: 75vh;
   }
   .pic13{
     padding-left: 30vw;
@@ -680,7 +684,7 @@ footer{
   	padding-top: 152vw;
   }
   .fifth{
-    height: 70vh;
+    height: 75vh;
   }
   .pic14{
     padding-left: 10vw;
@@ -722,7 +726,7 @@ footer{
   	padding-top: 146.5vw;
   }
   .six{
-    height: 73vh;
+    height: 75vh;
   }
   .pic16{
     padding-left: 30vw;
